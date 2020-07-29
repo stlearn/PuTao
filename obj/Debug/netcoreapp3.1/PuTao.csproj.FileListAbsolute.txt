@@ -1,0 +1,13 @@
+I:\C#\PuTao\bin\Debug\netcoreapp3.1\PuTao.exe
+I:\C#\PuTao\bin\Debug\netcoreapp3.1\PuTao.deps.json
+I:\C#\PuTao\bin\Debug\netcoreapp3.1\PuTao.runtimeconfig.json
+I:\C#\PuTao\bin\Debug\netcoreapp3.1\PuTao.runtimeconfig.dev.json
+I:\C#\PuTao\bin\Debug\netcoreapp3.1\PuTao.dll
+I:\C#\PuTao\bin\Debug\netcoreapp3.1\PuTao.pdb
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.csprojAssemblyReference.cache
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.AssemblyInfoInputs.cache
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.AssemblyInfo.cs
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.csproj.CoreCompileInputs.cache
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.dll
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.pdb
+I:\C#\PuTao\obj\Debug\netcoreapp3.1\PuTao.genruntimeconfig.cache
